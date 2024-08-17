@@ -2,12 +2,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
-<h1 align="center">Hi 👋, I'm Sabarish_R</h1>
+<h1 align="center">Hi 👋, I'm PERINBA SARAVANAN K</h1>
 <h3 align="center"><I>A passionate AI FullStack developer from TamilNadu</I></h3>
 <br>
 <br>
 
-Feel free to explore more about me click 👉 [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)
+Feel free to explore more about me click 👉 [PERINBA_SARAVANAN_K](https://sabarishcodewizard.github.io/Personal_Portfolio/)
 
 Check out our Chrome extension for real-time e-commerce product information click 👉 [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/) click 👉 [You Tube](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N)
 
@@ -32,7 +32,7 @@ Check out my Tamil Translator!  🌐 Explore it [here](https://tamiltranslator.p
 
 - 💬 Ask me about **Artificial Intelligence** and  **FullStack**
 
-- 📫 How to reach me **ravik60656@gmail.com**
+- 📫 How to reach me **perinbasaravanank06@gmail.com**
 
 - ⚡ Fun fact **ChatGPT is currently free to use......**
 
