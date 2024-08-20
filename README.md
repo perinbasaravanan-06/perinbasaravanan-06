@@ -50,7 +50,7 @@ Check out my Tamil Translator!  🌐 Explore it [here](https://tamiltranslator.p
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarishcodewizard&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Perinbasaravanank_06)](https://leetcode.com/ravik60656?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Perinbasaravanank_06)](https://leetcode.com/Perinbasaravanank_06)
 
 
 ## 🏆 GitHub Trophies
