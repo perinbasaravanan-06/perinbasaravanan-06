@@ -3,19 +3,16 @@
 
 
 <h1 align="center">Hi 👋, I'm PERINBA SARAVANAN K</h1>
-<h3 align="center"><I>A passionate AI FullStack developer from TamilNadu</I></h3>
+<h3 align="center"><I>Full Stack Developer | Circuit Designer | PCB Designer | Innovator in Electronics & AI</I></h3>
 <br>
 <br>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently studing at **Bannari Amman Institute Of Technology**
 
 - 🌱 I’m currently learning **Fullstack and AI**
-
-- 👯 I’m looking to collaborate on **Integrate a voice assistant into a website, leveraging my expertise in voice technology and web development to enhance user experience and functionality**
 
 - 💬 Ask me about **Artificial Intelligence** and  **FullStack**
 
@@ -26,7 +23,7 @@
 <p align="left">
 </p>
 
-<h3 align="center">LEET CODE STATUS:</h3>
+<h3 align="left">LEET CODE STATUS:</h3>
 
 
 
@@ -34,10 +31,13 @@
  [![Leetcode Stats](https://leetcard.jacoblin.cool/Perinbasaravanank_06)](https://leetcode.com/Perinbasaravanank_06)
 
 
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/perinbasaravanan06/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<h3 align="left">Connect with me:</h3>
+<hr>
+<p align="center">
+<a href="https://linkedin.com/in/perinba saravanan k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perinba saravanan k" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/perinba__saravanan_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="perinba__saravanan_06" height="30" width="40" /></a>
+<a href="https://instagram.com/__saravanan__4106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__saravanan__4106" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/perinbasaravana2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="perinbasaravana2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/perinbasaravanan_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="perinbasaravanan_06" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/perinbasaravanan_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="perinbasaravanan_06" height="30" width="40" /></a>
 </p>
