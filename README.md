@@ -22,8 +22,7 @@
 - 📫 How to reach me **perinbasaravanank06@gmail.com**
 
 - ⚡ Fun fact **ChatGPT is currently free to use......**
-
-
+              
 <p align="left">
 </p>
 
