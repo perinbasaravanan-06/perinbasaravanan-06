@@ -18,12 +18,12 @@
 
 - 📫 How to reach me **perinbasaravanank06@gmail.com**
 
-- ⚡ Fun fact **ChatGPT is currently free to use......**
+- ⚡ Fun fact **ChatGPT is currently free to use....**
               
 <p align="left">
 </p>
 
-<h3 align="left">LEET CODE STATUS:</h3>
+<h3 align="left">LEET CODE STATU:</h3>
 
 
 
