@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="center">
-<a href="https://linkedin.com/in/perinba saravanan k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perinba saravanan k" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/perinbasaravanan06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perinba saravanan k" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/perinba__saravanan_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="perinba__saravanan_06" height="30" width="40" /></a>
 <a href="https://instagram.com/__saravanan__4106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__saravanan__4106" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/perinbasaravana2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="perinbasaravana2" height="30" width="40" /></a>
