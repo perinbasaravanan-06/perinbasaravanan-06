@@ -23,7 +23,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">LEET CODE STATU:</h3>
+<h3 align="left">LEET CODE STATUS:</h3>
 
 
 
