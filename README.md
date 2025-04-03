@@ -27,8 +27,10 @@
 
 
 
+<div align = "center">
+   [![Leetcode Stats](https://leetcard.jacoblin.cool/Perinbasaravanank_06)](https://leetcode.com/Perinbasaravanank_06)
+</div>
 
- [![Leetcode Stats](https://leetcard.jacoblin.cool/Perinbasaravanank_06)](https://leetcode.com/Perinbasaravanank_06)
 
 
 <h3 align="left">Connect with me:</h3>
