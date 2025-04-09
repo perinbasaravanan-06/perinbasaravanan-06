@@ -3,38 +3,31 @@
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" />
 </p>
 
-<br/>
-
-<!-- INTRO + CODING GIF SIDE BY SIDE -->
-<table>
-  <tr>
-    <td>
-
-<h1>Hi 👋, I'm PERINBA SARAVANAN K</h1>
-<h3><i>Full Stack Developer | Problem Solver | DSA Enthusiast | Java Programmer</i></h3>
-
-</td>
-    <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm42eXNlZXc5YnBudmlsZ3VoM3p1MmpvZ3g3eGN4bHRhaGRrY2xtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="coding gif">
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
+<h1 align="center">Hi 👋, I'm PERINBA SARAVANAN K</h1>
+<h3 align="center"><i>Full Stack Developer | Problem Solver | DSA Enthusiast | Java Programmer</i></h3>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Pursuing **Electronics and Communication Engineering** at Bannari Amman Institute of Technology  
-- 💻 Skilled in **Full Stack Web Development (MERN)**  
-- 🧠 Strong grasp of **Data Structures and Algorithms**  
-- 🔧 Experienced in **Problem Solving**, **Circuit Design**, and **PCB Design**  
-- 🤖 Interested in integrating **Artificial Intelligence** with electronics  
-- 📬 Reach me at: [perinbasaravanank06@gmail.com](mailto:perinbasaravanank06@gmail.com)  
-- ⚡ Fun Fact: I love turning real-world challenges into working tech solutions 😄
-
-<br/><br/>
+<!-- ABOUT SECTION WITH GIF TO THE RIGHT -->
+<table>
+  <tr>
+    <td width="60%">
+      <h2>👨‍💻 About Me</h2>
+      <ul>
+        <li>🎓 Pursuing <b>Electronics and Communication Engineering</b> at Bannari Amman Institute of Technology</li>
+        <li>💻 Skilled in <b>Full Stack Web Development</b> (MERN)</li>
+        <li>🧠 Strong grasp of <b>Data Structures and Algorithms</b></li>
+        <li>🔧 Experienced in <b>Problem Solving</b>, <b>Circuit Design</b>, and <b>PCB Design</b></li>
+        <li>🤖 Interested in integrating <b>Artificial Intelligence</b> with electronics</li>
+        <li>📬 Reach me at: <a href="mailto:perinbasaravanank06@gmail.com">perinbasaravanank06@gmail.com</a></li>
+        <li>⚡ Fun Fact: I love turning real-world challenges into working tech solutions 😄</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm42eXNlZXc5YnBudmlsZ3VoM3p1MmpvZ3g3eGN4bHRhaGRrY2xtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,8 +45,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<br/><br/>
-
 ---
 
 ## 📊 LeetCode Stats
@@ -64,7 +55,16 @@
   </a>
 </p>
 
-<br/><br/>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=perinbasaravanan-06&show_icons=true&theme=radical" alt="GitHub Stats" width="445" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perinbasaravanan-06&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</p>
+
+
 
 ---
 
@@ -76,8 +76,6 @@
   <a href="https://www.leetcode.com/perinbasaravanan_06" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/perinbasaravanan_06" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
-
-<br/><br/>
 
 ---
 
