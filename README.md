@@ -18,11 +18,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m currently studying at **Bannari Amman Institute of Technology**  
-- 🚀 Learning **Full Stack Development** and **Artificial Intelligence**  
-- 💬 Ask me about **AI**, **MERN Stack**, **PCB Design**, and **Electronics Projects**  
-- 📫 Reach me at: **perinbasaravanank06@gmail.com**  
-- ⚡ Fun Fact: *ChatGPT is currently free to use... take advantage!* 😄
+ 🎓 I’m currently studying at **Bannari Amman Institute of Technology**  
+ 🚀 Learning **Full Stack Development** and **Artificial Intelligence**  
+ 💬 Ask me about **AI**, **MERN Stack**, **PCB Design**, and **Electronics Projects**  
+ 📫 Reach me at: **perinbasaravanank06@gmail.com**  
+ ⚡ Fun Fact: *ChatGPT is currently free to use... take advantage!* 😄
 
 </div>
 
