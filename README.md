@@ -4,7 +4,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm PERINBA SARAVANAN K</h1>
-<h3 align="center"><i>Full Stack Developer |  </i></h3>
+<h3 align="center"><i>Full Stack Developer | Problem Solver | DSA Enthusiast | Java Programmer</i></h3>
+
 
 <br/>
 
