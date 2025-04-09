@@ -14,6 +14,7 @@
 </p>
 
 ---
+<div align="center">
 
 ### 👨‍💻 About Me
 
@@ -22,6 +23,8 @@
 - 💬 Ask me about **AI**, **MERN Stack**, **PCB Design**, and **Electronics Projects**  
 - 📫 Reach me at: **perinbasaravanank06@gmail.com**  
 - ⚡ Fun Fact: *ChatGPT is currently free to use... take advantage!* 😄
+
+</div>
 
 ---
 
