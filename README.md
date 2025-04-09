@@ -14,21 +14,22 @@
 </p>
 
 ---
+
 <div align="center">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
- 🎓 I’m currently studying at **Bannari Amman Institute of Technology**  
- 🚀 Learning **Full Stack Development** and **Artificial Intelligence**  
- 💬 Ask me about **AI**, **MERN Stack**, **PCB Design**, and **Electronics Projects**  
- 📫 Reach me at: **perinbasaravanank06@gmail.com**  
- ⚡ Fun Fact: *ChatGPT is currently free to use... take advantage!* 😄
+🎓 I’m currently studying at **Bannari Amman Institute of Technology**  
+🚀 Learning **Full Stack Development** and **Artificial Intelligence**  
+💬 Ask me about **AI**, **MERN Stack**, **PCB Design**, and **Electronics Projects**  
+📫 Reach me at: **perinbasaravanank06@gmail.com**  
+⚡ Fun Fact: *ChatGPT is currently free to use... take advantage!* 😄
 
 </div>
 
 ---
 
-### 📊 LeetCode Stats
+## 📊 LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/Perinbasaravanank_06">
@@ -38,7 +39,7 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/perinbasaravanan06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -50,4 +51,3 @@
 </p>
 
 ---
-
